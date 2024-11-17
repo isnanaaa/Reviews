@@ -2,7 +2,7 @@ package com.example.restaurantreview.ui
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
-import android.widget.ListAdapter
+import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.RecyclerView
 import com.example.restaurantreview.data.response.CustomerReviewsItem
